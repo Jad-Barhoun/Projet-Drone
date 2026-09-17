@@ -3,7 +3,7 @@
 ## Drone
 
 - **1 Microcontroller:** [STM32G031K8](https://www.st.com/en/microcontrollers-microprocessors/stm32g031k8.html) ? Other ?
-- **1 IMU: ** [LSM6DSO](https://www.st.com/en/mems-and-sensors/lsm6dso.html) (ST ecosystem) ? [MPU6050](https://www.cdiweb.com/datasheets/invensense/mpu-6050_datasheet_v3%204.pdf) ?
+- **1 IMU:** [LSM6DSO](https://www.st.com/en/mems-and-sensors/lsm6dso.html) (ST ecosystem) ? [MPU6050](https://www.cdiweb.com/datasheets/invensense/mpu-6050_datasheet_v3%204.pdf) ?
 - **1 Radio module:** nRF24L01+ module (at least for v1)
 - **4 MOSFET (motor):** [MOSFET-N SI2302](https://docs.rs-online.com/3647/A700000015096064.pdf) ?
 - **4 Flyback diode (motor):** [SS14](https://docs.rs-online.com/74b2/0900766b814a6787.pdf) ?
