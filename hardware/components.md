@@ -44,4 +44,6 @@
 
 * **1 Buzzer**
 
+## Miscellaneous
+
 * **1 ST-LINK/V2:** for programming and debugging the STM32 through SWD
