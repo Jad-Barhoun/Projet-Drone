@@ -2,7 +2,7 @@
 name: Task
 about: Define a development, design, or testing task
 title: ""
-labels: ""
+labels: "Task"
 assignees: ""
 ---
 
