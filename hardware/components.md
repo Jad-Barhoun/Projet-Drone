@@ -10,6 +10,8 @@
 
 * **1 Radio module:** nRF24L01+ module ([Nordic Semiconductor](https://www.nordicsemi.com/Products/nRF24-series))
 
+* **1 Voltage regulator:** [MCP1700T-3302](https://fr.rs-online.com/web/p/regulateurs-de-tension/6989044) ([Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1700-Low-Quiescent-Current-LDO-20001826E.pdf))
+
 * **4 MOSFETs (motor):** [MOSFET-N SI2302](https://www.vishay.com/en/product/71831/) ([Datasheet](https://www.vishay.com/docs/71831/si2302ad.pdf))
 
 * **4 Flyback diodes (motor):** [SS14](https://datasheet.lcsc.com/datasheet/pdf/5fe7630942b4fda616dbbd5c10da9292.pdf)
@@ -18,7 +20,7 @@
 
 * **4 (2 CW + 2 CCW) brushed motors:** 7x16 mm, 0.8 mm shaft, 19000 KV [BetaFPV](https://betafpv.com/products/7x16mm-19000kv-brushed-motors-2cw-2ccw)
 
-* **2 LED:** status LED (2 colors: Green and Red)
+* **4 LEDs:** 1 Green, 1 Red and 2 White
 
 * **1 Push button**
 
@@ -32,7 +34,7 @@
 
 ## RC transmitter
 
-* **1 Microcontroller:** [STM32F401RET6](https://www.st.com/en/microcontrollers-microprocessors/stm32f401re.html) ([Datasheet](https://www.st.com/resource/en/datasheet/stm32f401re.pdf))
+* **1 Microcontroller:** [STM32G031K8](https://www.st.com/en/microcontrollers-microprocessors/stm32g031k8.html) ([Datasheet](https://www.st.com/resource/en/datasheet/stm32g031k8.pdf))
 
 * **1 Radio module:** nRF24L01+ module ([Nordic Semiconductor](https://www.nordicsemi.com/Products/nRF24-series))
 
@@ -40,7 +42,9 @@
 
 * **6 Push buttons**
 
-* **2 LEDs** (2 colors: Green and Red)
+* **2 LEDs:** 1 Green and 1 Red
+
+* **1 Voltage regulator:** [MCP1700T-3302](https://fr.rs-online.com/web/p/regulateurs-de-tension/6989044) ([Datasheet](https://ww1.microchip.com/downloads/en/DeviceDoc/MCP1700-Low-Quiescent-Current-LDO-20001826E.pdf))
 
 * **1 Switch**
 
